@@ -18,7 +18,6 @@ public class MainPrinter {
                 lines[i] = scanner.nextLine();
             }
 
-            //Printer  printer = new Printer();
 
             //Verifica se a linha tem um numero par de caracteres e desembaralha linha por linha
             for(String line: lines) {
