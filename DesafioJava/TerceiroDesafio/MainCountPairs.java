@@ -7,6 +7,7 @@ public class MainCountPairs {
 
         int count =CountPairs.countPairs(arr, k);
         System.out.println("Número de pares encontrados: " + count);
+        
     }
     
 }

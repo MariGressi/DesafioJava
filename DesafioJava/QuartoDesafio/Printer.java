@@ -1,7 +1,7 @@
 package DesafioJava.QuartoDesafio;
 
 public class Printer {
-    
+
     //Função que procura o meio da linha e reorganiza os caracteresdo meio para o inicio e final para o meio.
     public static String decryptLine(String line){
 
